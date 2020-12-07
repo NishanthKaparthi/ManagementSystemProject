@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [06/Dec/2020:19:36:28 -0500] "GET /registrationForm HTTP/1.1" 200 1589 http-bio-8080-exec-2 2236
+0:0:0:0:0:0:0:1 - - [06/Dec/2020:19:36:28 -0500] "GET /resources/styles/styles.css;jsessionid=2FB0449E0450A3A5A65E67A2C7C1ED68 HTTP/1.1" 200 89 http-bio-8080-exec-3 61
